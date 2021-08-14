@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'hello',
     introDesc: tui muốn nói là:
-    i love u so tooo
+    i love u so tooo hi
     
     
     btnIntro: 'hihi',
